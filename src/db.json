@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "samsung",
+      "price": 100
+    },
+    {
+      "name": "realme",
+      "price": "123",
+      "id": 5
+    },
+    {
+      "name": "vivo",
+      "price": "123",
+      "id": 6
+    }
+  ]
+}
